@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#e2b893"/>
+      <stop offset="1" stop-color="#9f6b48"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="12" fill="#171412" />
+  <text x="50%" y="54%" font-family="Georgia,serif" font-size="32" fill="url(#g)" text-anchor="middle" dominant-baseline="middle">AR</text>
+</svg>

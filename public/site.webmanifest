@@ -1,0 +1,22 @@
+{
+  "name": "Ateliê Raro",
+  "short_name": "Ateliê Raro",
+  "description": "Curadoria premium de moda circular com loja física e atendimento personalizado.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#171412",
+  "theme_color": "#171412",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}

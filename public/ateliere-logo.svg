@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="60" viewBox="0 0 280 60">
+  <defs>
+    <linearGradient id="lg" x1="0" x2="1">
+      <stop offset="0" stop-color="#e2b893"/>
+      <stop offset="1" stop-color="#75452f"/>
+    </linearGradient>
+  </defs>
+  <rect width="280" height="60" rx="10" fill="transparent"/>
+  <text x="24" y="36" font-family="Georgia, serif" font-size="24" fill="url(#lg)">Ateliê Raro</text>
+</svg>
