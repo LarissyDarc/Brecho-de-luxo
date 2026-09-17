@@ -75,7 +75,7 @@ export const products = [
     price: "R$ 3.200",
     tag: "Estado impecável",
     image:
-      "https://images.unsplash.com/photo-1560842410-ae9b0b6e6f3d?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?auto=format&fit=crop&w=1200&q=85",
     alt: "Lenço de seda luxuoso com estampa clássica",
   },
   {
@@ -85,7 +85,7 @@ export const products = [
     price: "R$ 9.400",
     tag: "Vintage raro",
     image:
-      "https://images.unsplash.com/photo-1503342217505-b0a15d9a0f9b?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=1200&q=85",
     alt: "Bolsa de ombro em close com detalhe de logo",
   },
   {
@@ -105,7 +105,7 @@ export const products = [
     price: "R$ 11.250",
     tag: "Autenticada",
     image:
-      "https://images.unsplash.com/photo-1542060747-0ca8dff1a4b7?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?auto=format&fit=crop&w=1200&q=85",
     alt: "Bolsa de couro com padrao intrecciato",
   },
   {
@@ -115,7 +115,7 @@ export const products = [
     price: "R$ 7.800",
     tag: "Peca unica",
     image:
-      "https://images.unsplash.com/photo-1520975912600-8168d0aaf6a5?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1200&q=85",
     alt: "Vestido elegante pendurado em parede neutra",
   },
   {
@@ -125,7 +125,7 @@ export const products = [
     price: "R$ 4.950",
     tag: "Estado excelente",
     image:
-      "https://images.unsplash.com/photo-1520975912600-8168d0aaf6a5?auto=format&fit=crop&w=1200&q=85",
+      "https://images.unsplash.com/photo-1549298916-b41d501d3772?auto=format&fit=crop&w=1200&q=85",
     alt: "Tênis de plataforma em composição de moda",
   },
 ];
