@@ -1,8 +1,57 @@
 # React + Vite
+# 👗 Brechó de Luxo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page responsiva desenvolvida para apresentar um brechó de roupas e acessórios, com design moderno e navegação intuitiva.
 
-Currently, two official plugins are available:
+## 🎓 Identificação Acadêmica
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Instituição:** Senac Taguatinga
+- **Curso:** Técnico de Desenvolvimento de Sistema
+- **Disciplina:** Projeto Entregador
+- **Orientador:** Profº Hudson Neves
+
+## 🚀 Funcionalidades
+
+- Apresentação da marca e das peças.
+- Layout responsivo para celulares e computadores.
+- Catálogo de produtos.
+- Navegação intuitiva.
+- Interface com identidade visual própria.
+
+## 🛠️ Tecnologias
+
+- React
+- Vite
+- JavaScript
+- CSS
+- Git e GitHub
+
+## ▶️ Como Executar
+
+**Requisito:** Node.js instalado.
+
+```bash
+npm install
+npm run dev
+```
+
+Abra no navegador o endereço indicado no terminal.
+
+## 🧪 Gerar versão de produção
+
+```bash
+npm run build
+npm run preview
+```
+
+## 🌐 Publicação
+
+O projeto pode ser publicado no GitHub Pages, conforme a configuração de implantação do repositório.
+
+## 📈 Status
+
+**Em desenvolvimento — projeto acadêmico.**
+
+## 📄 Licença
+
+A definir.
