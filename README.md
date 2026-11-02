@@ -1,7 +1,8 @@
-# React + Vite
-# 👗 Brechó de Luxo
+# Ateliê Raro | Brechó de Luxo
 
-Landing page responsiva desenvolvida para apresentar um brechó de roupas e acessórios, com design moderno e navegação intuitiva.
+Vitrine digital de moda circular para o Ateliê Raro. O site apresenta uma seleção de peças de segunda mão e marcas de luxo em uma experiência editorial, responsiva e acessível.
+
+**Site:** https://larissydarc.github.io/Brecho-de-luxo/
 
 ## 🎓 Identificação Acadêmica
 
@@ -10,48 +11,66 @@ Landing page responsiva desenvolvida para apresentar um brechó de roupas e aces
 - **Disciplina:** Projeto Entregador
 - **Orientador:** Profº Hudson Neves
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 
-- Apresentação da marca e das peças.
-- Layout responsivo para celulares e computadores.
-- Catálogo de produtos.
-- Navegação intuitiva.
-- Interface com identidade visual própria.
+- Página editorial com apresentação da marca e destaques da coleção.
+- Navegação adaptada para desktop e dispositivos móveis.
+- Catálogo com busca por nome ou marca.
+- Filtros por categoria e marca.
+- Ordenação por seleção da curadoria ou preço.
+- Janela de detalhes para cada peça.
+- Layout responsivo para diferentes tamanhos de tela.
 
-## 🛠️ Tecnologias
+## 🧰 Tecnologias
 
 - React
 - Vite
 - JavaScript
 - CSS
-- Git e GitHub
+- GitHub Actions e GitHub Pages
 
-## ▶️ Como Executar
+## ▶️ Executar localmente
 
 **Requisito:** Node.js instalado.
 
+Instale as dependências:
+
 ```bash
 npm install
+```
+
+Inicie o servidor de desenvolvimento:
+
+```bash
 npm run dev
 ```
 
-Abra no navegador o endereço indicado no terminal.
+Abra no navegador o endereço local exibido no terminal.
 
-## 🧪 Gerar versão de produção
+## 🏗️ Build e validação
+
+Gere a versão de produção:
 
 ```bash
 npm run build
+```
+
+Visualize localmente o build:
+
+```bash
 npm run preview
 ```
 
-## 🌐 Publicação
+Execute o linter:
 
-O projeto pode ser publicado no GitHub Pages, conforme a configuração de implantação do repositório.
+```bash
+npm run lint
+```
 
-## 📈 Status
+## 🚀 Publicação
 
-**Em desenvolvimento — projeto acadêmico.**
+O projeto é publicado no GitHub Pages. Pushes para a branch `main` iniciam automaticamente o workflow definido em `.github/workflows/pages.yml`.
 
 ## 📄 Licença
 
-A definir.
+Não especificada.
